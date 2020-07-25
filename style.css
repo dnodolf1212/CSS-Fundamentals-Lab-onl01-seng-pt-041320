@@ -38,6 +38,7 @@ figcaption {
 }
 
 .footer div{
+  display: block;
   background-color: red;
   width: 25%;
 }
