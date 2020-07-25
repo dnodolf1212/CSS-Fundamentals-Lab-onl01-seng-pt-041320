@@ -58,6 +58,8 @@ figcaption {
 div {
   display: inline-block;
   width: 25%;
+  margin: 0;
+  padding: 0;
   vertical-align: middle;
 }
 
