@@ -30,36 +30,12 @@ figcaption {
     font-size: 13px;
 }
 
-.featured-property {
+.featured-property p{
   text-align: center;
   display: block;
-  width: 800px;
-  color: blue;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 400px;
+  margin-inline-end: 400px;
 }
-
-.footer {
-  width: 100%;
-  display: block;
-  padding: 70px 0;
-  background-color: red;
-}
-
-.footer details {
-  display: block;
-  float: left;
-  text-align: center;
-}
-
-.footer div {
-  text-align: center;
-}
-
-div {
-  display: inline-block;
-  width: 25%;
-  margin: 0;
-  padding: 0;
-  vertical-align: middle;
-}
-
 
