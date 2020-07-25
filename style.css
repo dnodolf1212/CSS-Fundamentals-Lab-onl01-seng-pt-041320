@@ -37,8 +37,7 @@ figcaption {
   text-align: center;
 }
 
-.footer div{
-  display: inline-block;
+.footer {
   background-color: red;
   width: 25%;
 }
