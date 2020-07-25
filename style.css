@@ -54,8 +54,10 @@ figcaption {
 
 .footer div {
   text-align: center;
-  
-  
+}
+
+div {
+  width: 25%;
 }
 
 
