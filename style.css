@@ -43,5 +43,9 @@ figcaption {
   width: 25%;
 }
 
+div {
+  display: inline-block
+}
+
 
 
