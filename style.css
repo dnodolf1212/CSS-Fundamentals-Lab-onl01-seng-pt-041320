@@ -40,15 +40,15 @@ figcaption {
 .footer {
   background-color: red;
   position: fixed;
-  width: 100%;
+  width: 100%;padding: 0;
+  margin: auto;
 }
 
 .footer div {
   background-color: red;
   color: yellow;
   width: 25%;
-  padding: 0;
-  margin: auto;
+  
   display: inline-block;
   text-align: center;
   
