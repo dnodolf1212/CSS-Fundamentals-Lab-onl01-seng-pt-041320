@@ -49,11 +49,10 @@ figcaption {
 .footer details {
   display: block;
   float: left;
-}
-
-.footer div {
   text-align: center;
 }
+
+
 
 div {
   display: inline-block;
