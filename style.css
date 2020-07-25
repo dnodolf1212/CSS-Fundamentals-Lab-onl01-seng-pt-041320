@@ -38,6 +38,7 @@ figcaption {
 }
 
 .footer nav{
+  position: fixed
   background-color: red;
   position: fixed;
   width: 100%;
