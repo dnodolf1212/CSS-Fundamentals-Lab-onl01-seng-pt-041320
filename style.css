@@ -32,7 +32,7 @@ figcaption {
 
 .featured-property p {
   color: blue;
-  max-width: 800px;
+  width: 800px;
   text-align: center;
   
 }
