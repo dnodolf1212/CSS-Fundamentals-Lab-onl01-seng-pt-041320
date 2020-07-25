@@ -52,7 +52,9 @@ figcaption {
   text-align: center;
 }
 
-
+.footer div {
+  text-align: center;
+}
 
 div {
   display: inline-block;
