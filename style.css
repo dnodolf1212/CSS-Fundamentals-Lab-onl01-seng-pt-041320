@@ -33,7 +33,7 @@ figcaption {
 .featured-property p{
   text-align: center;
   display: block;
-  margin: 800px;
+  width: 800px;
 }
 
 .footer {
