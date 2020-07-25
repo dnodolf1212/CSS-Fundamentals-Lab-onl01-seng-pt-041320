@@ -39,7 +39,8 @@ figcaption {
 
 .footer {
   background-color: red;
-  width: 25%;
+  position: fixed;
+  width: 100%;
 }
 
 
