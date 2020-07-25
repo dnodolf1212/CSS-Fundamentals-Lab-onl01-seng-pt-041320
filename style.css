@@ -47,6 +47,8 @@ figcaption {
   background-color: red;
   color: yellow;
   width: 25%;
+  padding: 0;
+  margin: auto;
   display: inline-block;
   text-align: center;
   
