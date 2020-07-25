@@ -43,13 +43,17 @@ figcaption {
   width: 100%;
 }
 
-.footer div h3 {
+.footer div {
   background-color: red;
   color: yellow;
   width: 25%;
   display: inline-block;
   text-align: center;
   
+}
+
+.footer h3 {
+  color: orange;
 }
 
 
