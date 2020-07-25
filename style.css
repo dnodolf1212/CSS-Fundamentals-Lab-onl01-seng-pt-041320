@@ -45,6 +45,7 @@ figcaption {
 
 .footer div {
   color: yellow;
+  width: 25%;
   display: inline-block;
   text-align: center;
 }
