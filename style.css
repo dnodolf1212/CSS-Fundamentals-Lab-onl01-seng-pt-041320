@@ -31,6 +31,7 @@ figcaption {
 }
 
 p[id="featured-property"] {
+  color: blue;
   text-align: center;
   display: block;
   width: 800px;
