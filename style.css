@@ -33,10 +33,7 @@ figcaption {
 .featured-property p{
   text-align: center;
   display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 400px;
-  margin-inline-end: 400px;
+  
 }
 
 .footer {
