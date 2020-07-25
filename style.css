@@ -30,8 +30,7 @@ figcaption {
     font-size: 13px;
 }
 
-p[id="featured-property"] {
-  color: blue;
+
   text-align: center;
   display: block;
   width: 800px;
