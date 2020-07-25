@@ -56,6 +56,7 @@ figcaption {
 }
 
 div {
+  display: inline-block;
   width: 25%;
   vertical-align: middle;
 }
