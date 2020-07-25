@@ -41,6 +41,7 @@ figcaption {
   background-color: red;
   position: fixed;
   width: 100%;
+  overflow: hidden;
 }
 
 .footer div {
