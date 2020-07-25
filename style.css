@@ -37,10 +37,11 @@ figcaption {
   text-align: center;
 }
 
-.footer {
+.footer nav{
   background-color: red;
   position: fixed;
   width: 100%;
+  float: left;
 }
 
 .footer div {
