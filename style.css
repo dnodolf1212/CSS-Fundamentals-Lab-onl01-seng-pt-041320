@@ -49,7 +49,7 @@ figcaption {
   color: yellow;
   width: 25%;
   display: inline-block;
-  
+  align-items: baseline;
   text-align: center;
   
 }
